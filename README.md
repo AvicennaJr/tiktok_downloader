@@ -1,5 +1,5 @@
 # Tiktok Downloader
-Tiktok video downloader without watermark
+A simple tiktok video downloader.
 
 ## Example
 ```bash
