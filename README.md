@@ -1,4 +1,4 @@
-# tiktok-downloader
+# Tiktok Downloader
 Tiktok video downloader without watermark
 
 ## Example
